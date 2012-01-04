@@ -1,0 +1,401 @@
+- key: A blog about changing the way we remember
+  url: http://www.1000memories.com
+- key: Human-based computation
+  url: http://www.3form.org
+- key: Echo
+  url: http://www.aboutecho.com
+- key: Alon Halevy's Blog
+  url: http://www.blogspot.com
+- key: arbesman.net
+  url: http://www.arbesman.net
+- key: James Gleick
+  url: http://www.around.com
+- key: writing | ben fry
+  url: http://www.benfry.com
+- key: Big Data Craft
+  url: http://www.bigdatacraft.com
+- key: Assetmap
+  url: http://www.assetmap.com
+- key: BuzzData | Blog
+  url: http://www.buzzdata.com
+- key: Connect.Me Blog
+  url: http://www.connect.me
+- key: Data Miners Blog
+  url: http://www.data-miners.com
+- key: Data Big Bang Blog
+  url: http://www.databigbang.com
+- key: DataMarket blog
+  url: http://www.datamarket.com
+- key: DataPortability Blog
+  url: http://www.dataportability.org
+- key: DataSift
+  url: http://www.datasift.net
+- key: DBpedia
+  url: http://www.dbpedia.org
+- key: "Edwin Chen's Blog \xBB Bayesian Confidence Intervals: Obama\u2019s \u2018\
+    That\u2019-Addition and Informality"
+  url: http://www.echen.me
+- key: Effectual Analysis
+  url: http://www.effectcheck.com
+- key: Factual Blog
+  url: http://www.factual.com
+- key: Formulists
+  url: http://www.formulists.com
+- key: GetGlue Blog
+  url: http://www.getglue.com
+- key: Social Studies Blog
+  url: http://www.getsatisfaction.com
+- key: Gnip Blog
+  url: http://www.gnip.com
+- key: Hunch Blog
+  url: http://www.hunch.com
+- key: InfiniteGraph
+  url: http://www.infinitegraph.com
+- key: blog.infochimps.org
+  url: http://www.infochimps.com
+- key: No Free Hunch
+  url: http://www.kaggle.com
+- key: Keepcon
+  url: http://www.keepcon.com
+- key: kiwitobes.com
+  url: http://www.kiwitobes.com
+- key: know about it
+  url: http://www.knowabout.it
+- key: The Kontagent Blog
+  url: http://www.kontagent.com
+- key: MetaOptimize
+  url: http://www.metaoptimize.com
+- key: 'Kevin Hillstrom:  MineThatData'
+  url: http://www.minethatdata.com
+- key: MongoLab
+  url: http://www.mongolab.com
+- key: NewsCred Blog - Thoughts on the Future of News
+  url: http://www.newscred.com
+- key: OkTrends
+  url: http://www.okcupid.com
+- key: Open Knowledge Foundation Blog
+  url: http://www.okfn.org
+- key: PeopleBrowsr Blog !!!
+  url: http://www.peoplebrowsr.com
+- key: PostRank Blog
+  url: http://www.postrank.com
+- key: Personalization Blog
+  url: http://www.rapleaf.com
+- key: Recorded Future Blog
+  url: http://www.recordedfuture.com
+- key: Revolutions
+  url: http://www.revolutionanalytics.com
+- key: RIGHTLOAD
+  url: http://www.rightload.info
+- key: ScraperWiki Data Blog
+  url: http://www.scraperwiki.com
+- key: Sematext Blog
+  url: http://www.sematext.com
+- key: All your data are belong to us
+  url: http://www.sitescraper.net
+- key: /#!
+  url: http://www.slashpoundbang.com
+- key: Adventures in Data Land
+  url: http://www.smola.org
+- key: SocialFlow Blog
+  url: http://www.socialflow.com
+- key: Sociocast Blog
+  url: http://www.sociocast.com
+- key: SpatialKey blog
+  url: http://www.spatialkey.com
+- key: Timetric Blog
+  url: http://www.timetric.com
+- key: FluidDB
+  url: http://www.fluidinfo.com
+- key: Technology Leadership Tactics
+  url: http://www.forbes.com
+- key: The Data Digest
+  url: http://www.forrester.com
+- key: "JMP\xAE Blog"
+  url: http://www.sas.com
+- key: Splunk Blogs
+  url: http://www.splunk.com
+- key: The Numbers Guy
+  url: http://www.wsj.com
+- key: Caseorganic Blog
+  url: http://www.caseorganic.com
+- key: Channel 9 - Entries tagged with Data
+  url: http://www.msdn.com
+- key: Cloud Event Processing
+  url: http://www.wordpress.com
+- key: Recollect Engineering
+  url: http://www.recollect.com
+- key: (title unknown)
+  url: http://www.contactcon.com
+- key: Tap11 Corp Site
+  url: http://www.tap11.com
+- key: curiosity counts
+  url: http://www.curiositycounts.com
+- key: Dataspora Blog
+  url: http://www.dataspora.com
+- key: Daytum
+  url: http://www.wordpress.com
+- key: DBMS Musings
+  url: http://www.blogspot.com
+- key: Dumbotics
+  url: http://www.dumbotics.com
+- key: eagereyes
+  url: http://www.eagereyes.org
+- key: emergent by design
+  url: http://www.emergentbydesign.com
+- key: Extractiv
+  url: http://www.squarespace.com
+- key: Search Facets
+  url: http://www.endeca.com
+- key: Latest
+  url: http://www.fathom.info
+- key: "Latest \xBB Press"
+  url: http://www.fathom.info
+- key: Apigee Blog
+  url: http://www.apigee.com
+- key: Data Wrangling
+  url: http://www.datawrangling.com
+- key: 'Juice Analytics: Agile Analytics'
+  url: http://www.juiceanalytics.com
+- key: Mainly Data
+  url: http://www.jeffhammerbacher.com
+- key: Marginally Interesting by Mikio L. Braun
+  url: http://www.mikiobraun.de
+- key: Mashape's Voice
+  url: http://www.mashape.com
+- key: Quantified Self
+  url: http://www.quantifiedself.com
+- key: sudoscientist.com
+  url: http://www.sudoscientist.com
+- key: thoughts from the red planet
+  url: http://www.nathanmarz.com
+- key: BackType
+  url: http://www.backtype.com
+- key: The CrowdFlower Blog
+  url: http://www.crowdflower.com
+- key: "DataStax \xBB Blog Post \u2013 Corporate"
+  url: http://www.datastax.com
+- key: Directed Edge News
+  url: http://www.directededge.com
+- key: ThingSpeak Community
+  url: http://www.thingspeak.com
+- key: MailRank Home
+  url: http://www.mailrank.com
+- key: Nick Halstead
+  url: http://www.nickhalstead.com
+- key: O'Reilly Radar - Insight, analysis, and research about emerging technologies.
+  url: http://www.oreilly.com
+- key: Rawkes - Captain's Blog
+  url: http://www.rawkes.com
+- key: Saplo
+  url: http://www.saplo.com
+- key: "Simply Measured \xBB Social Media Data"
+  url: http://www.simplymeasured.com
+- key: SmartData Collective - The world's best thinkers on business intelligence &
+    data analytics
+  url: http://www.smartdatacollective.com
+- key: Sunlight Labs blog
+  url: http://www.sunlightlabs.com
+- key: "Vertica \xBB Blog"
+  url: http://www.vertica.com
+- key: Z-Blog
+  url: http://www.zemanta.com
+- key: "Palantir Technologies \xBB Analysis Blog"
+  url: http://www.palantirtech.com
+- key: "b i t q u i l l \xBB Sci & Tech"
+  url: http://www.bitquill.net
+- key: FigShare Blog
+  url: http://www.figshare.com
+- key: Geeking with Greg
+  url: http://www.blogspot.com
+- key: GLUE Conference
+  url: http://www.gluecon.com
+- key: i314 - Research in Data Science_i314 - Research in Data Science
+  url: http://www.i314.com.ar
+- key: Entrepreneurial Geekiness
+  url: http://www.ianozsvald.com
+- key: Infographics news
+  url: http://www.blogspot.com
+- key: Information Arbitrage
+  url: http://www.informationarbitrage.com
+- key: Information Optimized Blog
+  url: http://www.informationoptimized.com
+- key: mnt
+  url: http://www.google.com
+- key: Hyperextended Metaphor
+  url: http://www.innocuous.org
+- key: "Ivan\u2019s private site"
+  url: http://www.ivan-herman.name
+- key: Jon Katzur
+  url: http://www.google.com
+- key: No Free Hunch
+  url: http://www.kaggle.com
+- key: The Adsideologist - Kevin Berardinelli
+  url: http://www.kevinberardinelli.com
+- key: The Official Klout Blog
+  url: http://www.klout.com
+- key: Knight & Bishop
+  url: http://www.knightbishop.com
+- key: Irrational Exuberance
+  url: http://www.lethain.com
+- key: LingPipe Blog
+  url: http://www.lingpipe-blog.com
+- key: New blog articles in Blogs
+  url: http://www.lithium.com
+- key: LOD2
+  url: http://www.lod2.eu
+- key: Blog | MapR Technologies
+  url: http://www.mapr.com
+- key: Inductio Ex Machina
+  url: http://www.reid.name
+- key: Marko A. Rodriguez
+  url: http://www.markorodriguez.com
+- key: brain of matpalm
+  url: http://www.matpalm.com
+- key: Measuring Measures
+  url: http://www.measuringmeasures.com
+- key: The Mechanical Turk Blog
+  url: http://www.typepad.com
+- key: Metamarkets Blog
+  url: http://www.metamarketsgroup.com
+- key: Michael Nielsen
+  url: http://www.michaelnielsen.org
+- key: Scribbled thoughts on my research topics
+  url: http://www.typepad.com
+- key: business|bytes|genes|molecules
+  url: http://www.mndoci.com
+- key: Open
+  url: http://www.nytimes.com
+- key: Seb's Open Research
+  url: http://www.sebpaquet.net
+- key: ParAccel
+  url: http://www.paraccel.com
+- key: Personal Data Ecosystem Consortium
+  url: http://www.personaldataecosystem.org
+- key: PeteSearch
+  url: http://www.typepad.com
+- key: Proximal Labs
+  url: http://www.proximallabs.com
+- key: rachelbinx
+  url: http://www.rachelbinx.com
+- key: Semantic Void
+  url: http://www.semanticvoid.com
+- key: Sesame Data Browser
+  url: http://www.wordpress.com
+- key: Shion's Randomness
+  url: http://www.tumblr.com
+- key: Simple Complexity
+  url: http://www.simplecomplexity.net
+- key: Social Media Collective
+  url: http://www.socialmediacollective.org
+- key: Super-Economy
+  url: http://www.blogspot.com
+- key: Surprise and Coincidence - musings from the long tail
+  url: http://www.blogspot.com
+- key: The Next EdgeThe Next Edge | The Next Edge
+  url: http://www.thenextedge.org
+- key: The Noisy Channel
+  url: http://www.thenoisychannel.com
+- key: My tech blog.
+  url: http://www.tomazkovacic.com
+- key: Jeffrey Veen
+  url: http://www.veen.com
+- key: Visual.ly
+  url: http://www.visual.ly
+- key: Wizardry practicum
+  url: http://www.tumblr.com
+- key: Analysis Intelligence
+  url: http://www.analysisintelligence.com
+- key: asymco
+  url: http://www.asymco.com
+- key: 'Bitcurrent: Networking, technology, and web operations'
+  url: http://www.bitcurrent.com
+- key: Byte Mining
+  url: http://www.bytemining.com
+- key: Calculated Risk
+  url: http://www.calculatedriskblog.com
+- key: CB Insights - Blog
+  url: http://www.cbinsights.com
+- key: CommonCrawl
+  url: http://www.commoncrawl.org
+- key: Chris Diehl
+  url: http://www.cpdiehl.org
+- key: dataists
+  url: http://www.dataists.com
+- key: Everyone's Blog Posts - Data Science Central
+  url: http://www.google.com
+- key: Zero Intelligence Agents
+  url: http://www.drewconway.com
+- key: '...My heart''s in Accra'
+  url: http://www.ethanzuckerman.com
+- key: RadiumOne's Facebook Wall
+  url: http://www.facebook.com
+- key: FactSet's Taking Risk blog
+  url: http://www.factset.com
+- key: Freakonomics
+  url: http://www.freakonomics.com
+- key: Blog Archive
+  url: http://www.gooddata.com
+- key: GoodData
+  url: http://www.gooddata.com
+- key: 'News: Datablog | guardian.co.uk'
+  url: http://www.guardian.co.uk
+- key: igvita.com
+  url: http://www.igvita.com
+- key: Informaniac
+  url: http://www.informaniac.net
+- key: Kin lane
+  url: http://www.kinlane.com
+- key: Knome
+  url: http://www.knome.com
+- key: A Notebook
+  url: http://www.lisazhang.ca
+- key: manAmplified
+  url: http://www.manamplified.org
+- key: Michael G. Noll
+  url: http://www.michael-noll.com
+- key: Michael Rihani
+  url: http://www.michaelrihani.com
+- key: AI3:::Adaptive Information
+  url: http://www.mkbergman.com
+- key: The Needle Blog
+  url: http://www.needlebase.com
+- key: Neoformix
+  url: http://www.neoformix.com
+- key: Social Media Intelligence | NM Incite
+  url: http://www.nmincite.com
+- key: Peter Norvig
+  url: http://www.norvig.com
+- key: OData Blog
+  url: http://www.odata.org
+- key: Palantir Finance Analysis Blog
+  url: http://www.palantirfinance.com
+- key: Palantir Finance Analysis Blog
+  url: http://www.palantirfinance.com
+- key: PlaceIQ
+  url: http://www.placeiq.com
+- key: Predictive Signals
+  url: http://www.predictivesignals.com
+- key: riccomini - data visualization, computer programming, data mining, software
+    engineering
+  url: http://www.riccomini.name
+- key: Clay Shirky
+  url: http://www.shirky.com
+- key: Skeptic Geek
+  url: http://www.skepticgeek.com
+- key: SnapLogic Blog
+  url: http://www.snaplogic.com
+- key: Statistical Modeling, Causal Inference, and Social Science
+  url: http://www.andrewgelman.com
+- key: Tableau Software blogs
+  url: http://www.tableausoftware.com
+- key: The Filter Bubble
+  url: http://www.thefilterbubble.com
+- key: ThingWorx - The 1st Application Platform for the Connected World
+  url: http://www.thingworx.com
+- key: Yet Another Machine Learning Blog
+  url: http://www.wordpress.com
+- key: Machine Learning, etc
+  url: http://www.blogspot.com
+- key: spinn3r
+  url: http://www.spinn3r.com
