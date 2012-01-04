@@ -2,7 +2,7 @@ import urlparse
 from parse_domain import parse_domain
 
 class Constraint:
-	DEPTH = 1
+	DEPTH = 2
 	def __init__(self):
 		self.depth = 0
 
